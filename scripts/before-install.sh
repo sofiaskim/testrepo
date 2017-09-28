@@ -1,1 +1,1 @@
-mkdir ~/testcodedeploy
+mkdir testcodedeploy
