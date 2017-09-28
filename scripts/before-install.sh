@@ -1,2 +1,1 @@
 echo "before"
-mkdir ./codedeploytestrepo
