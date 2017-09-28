@@ -1,2 +1,2 @@
 echo "before"
-mkdir ./helloworld
+mkdir ./codedeploytestrepo
